@@ -35,7 +35,7 @@
 
         <div>
           <h1 class="text-2xl font-extrabold tracking-wide text-yellow-300">
-            BSIT 3B Attendance System
+            BSIT 3B 
           </h1>
           <p class="text-xs text-yellow-100 font-medium">
             Central Philippines State University Moises Padilla Campus
