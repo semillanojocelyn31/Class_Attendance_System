@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -42,7 +43,7 @@
     
     <header class="glass-card rounded-2xl p-6 shadow-2xl flex flex-col md:flex-row justify-between items-center gap-4 border-b-4 border-yellow-400">
       <div class="flex items-center gap-4">
-        <img src="1000051148_3.png" alt="logo" class="w-16 h-16 object-contain drop-shadow-[0_0_10px_rgba(250,204,21,0.6)]" />
+        <img src="1000051148_3.png" alt="CPSU Logo" class="w-16 h-16 object-contain drop-shadow-[0_0_10px_rgba(250,204,21,0.6)]" />
         <div>
           <h1 class="text-2xl font-extrabold tracking-wide text-yellow-300 drop-shadow">BSIT 3B Attendance System</h1>
           <p class="text-xs text-yellow-100 font-medium">Central Philippines State University Moises Padilla Campus</p>
